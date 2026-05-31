@@ -5,6 +5,7 @@
 Welcome to the **Playwright Automation Framework** repository! 🎯
 
 This project demonstrates a **modern, scalable, and maintainable test automation framework** built using **Playwright with TypeScript** to validate the functionality of the **Swag Labs** e-commerce application.
+
 The framework follows industry-standard automation practices and design patterns to ensure high readability, reusability, and maintainability. It is designed to support efficient test execution, easy test data management, and seamless integration with CI/CD pipelines.
 
 ---
