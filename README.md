@@ -63,14 +63,23 @@ PlaywrightSwagLabsProject
 ## 🏆 Key Features
 
 ✔️ Page Object Model (POM) Architecture
+
 ✔️ Reusable Custom Fixtures
+
 ✔️ Data-Driven Testing Approach
+
 ✔️ Centralized Test Data Management
+
 ✔️ Playwright Auto-Wait Mechanism
+
 ✔️ Cross-Browser Execution Support
+
 ✔️ Clean and Maintainable Framework Design
+
 ✔️ CI/CD Integration using GitHub Actions
-✔️ Detailed HTML Test Reports
+
+✔️ Detailed Allure Test Reports
+
 ✔️ Scalable Structure for Future Enhancements
 
 ---
@@ -139,8 +148,11 @@ npx playwright test tests/uiTests/LoginFeature.spec.ts
 Playwright Allure Reports provide:
 
 ✔️ Test execution summary
+
 ✔️ Passed and failed test details
+
 ✔️ Error logs and stack traces
+
 ✔️ Screenshots, Videos and traces for debugging
 
 To open the report:
@@ -158,8 +170,11 @@ The framework is integrated with **GitHub Actions** to enable automated test exe
 Benefits include:
 
 ✔️ Automated validation of changes
+
 ✔️ Early defect detection
+
 ✔️ Consistent test execution across environments
+
 ✔️ Improved development workflow
 
 ---
@@ -169,8 +184,13 @@ Benefits include:
 This project demonstrates my practical experience in:
 
 🔹 Building automation frameworks from scratch using Playwright
+
 🔹 Applying Page Object Model and framework design best practices
+
 🔹 Creating reusable and maintainable automation solutions
+
 🔹 Implementing data-driven testing strategies
+
 🔹 Integrating automated testing into CI/CD pipelines
+
 🔹 Delivering reliable end-to-end test automation for web applications
